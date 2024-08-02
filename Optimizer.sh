@@ -1,5 +1,5 @@
 #!/bin/bash
-# 
+# https://github.com/Nashit-panel/Ubuntu-vps-optimizer
 
 
 # Green, Yellow & Red Messages.
